@@ -1,6 +1,18 @@
 # mimics-EL-benchmark
 Code and runs for the ECIR 2021 paper "User Engagement Prediction for Clarification in Search".
 
+## Download dataset
+
+You can download the preprocessed MIMICS-Click with mapped SERP elements for each query from here.
+
+## Training
+
+Run `run_mimics.py` with wanted parameters. Parameters are described in the `run_mimics.py` file. 
+
+## Testing
+
+Download the checkpoints used in the paper here. You can then run the prediction with:
+`python run_mimics.py --mode 'test' --test_ckpt 'fname.ckpt'
 
 ## Citation
 
