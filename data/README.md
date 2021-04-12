@@ -1,1 +1,1 @@
-Download the preprocessed MIMICS-Click with mapped snippets and titles from SERPs (here).
+Download the preprocessed MIMICS-Click with mapped snippets and titles from SERPs [here](https://usi365-my.sharepoint.com/:f:/g/personal/sekuli_usi_ch/El51JpycjZdEj1R8neF1dQ4BJXCSqAK5RhKb0BRfwrmt7Q?e=2gNqgY).
