@@ -3,7 +3,7 @@ Code and runs for the ECIR 2021 paper "User Engagement Prediction for Clarificat
 
 ## Download dataset
 
-You can download the preprocessed MIMICS-Click with mapped SERP elements for each query from here.
+You can download the preprocessed MIMICS-Click with mapped SERP elements for each query from (here)[https://usi365-my.sharepoint.com/:f:/g/personal/sekuli_usi_ch/El51JpycjZdEj1R8neF1dQ4BJXCSqAK5RhKb0BRfwrmt7Q?e=2gNqgY].
 
 ## Training
 
@@ -11,7 +11,7 @@ Run `run_mimics.py` with wanted parameters. Parameters are described in the `run
 
 ## Testing
 
-Download the checkpoints used in the paper here. You can then run the prediction with:
+Download the checkpoints used in the paper (here)[https://usi365-my.sharepoint.com/:f:/g/personal/sekuli_usi_ch/El51JpycjZdEj1R8neF1dQ4BJXCSqAK5RhKb0BRfwrmt7Q?e=2gNqgY]. You can then run the prediction with:
 `python run_mimics.py --mode 'test' --test_ckpt 'fname.ckpt'
 
 ## Citation
