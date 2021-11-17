@@ -3,7 +3,7 @@ Code and runs for the ECIR 2021 paper "User Engagement Prediction for Clarificat
 
 ## Download dataset
 
-You can download the preprocessed MIMICS-Click with mapped SERP elements for each query from [here](https://usi365-my.sharepoint.com/:f:/g/personal/sekuli_usi_ch/El51JpycjZdEj1R8neF1dQ4BJXCSqAK5RhKb0BRfwrmt7Q?e=2gNqgY).
+You can download the preprocessed MIMICS-Click with mapped SERP elements for each query from [here](https://drive.switch.ch/index.php/s/VwWXaA3RQwywb9Y).
 
 ## Training
 
